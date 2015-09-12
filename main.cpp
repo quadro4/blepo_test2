@@ -44,7 +44,7 @@ int main(int argc, const char* argv[], const char* envp[])
 	
 	
 	printf("  \n\n");
-	printf("a. \Start: n");
+	printf("a. Start: n");
 
 	/*
 	a.	Reads 1 command-line parameter, which we will call filename.  
