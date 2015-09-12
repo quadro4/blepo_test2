@@ -10,7 +10,7 @@
 #endif
 
 
-
+//commandline parameter could be fruit1.bmp---fruit6.bmp
 
 
 using namespace blepo;
